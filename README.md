@@ -1,6 +1,6 @@
 # tic tac toe game
 
-to use packages in repositories, we need to list these as a dependency because it might not be installed in all systems or it might be shared for the laptop
+To use packages in repositories, we need to list these as a dependency because it might not be installed in all systems or it might be shared for the laptop
 
 **pip freeze** to check laptop packages 
 
@@ -18,7 +18,7 @@ When committing this into github, do not upload the virtual environment
 1. add a file called **'.gitignore'**
 2. write 'venv' into '.gitignore'
 3. **git status** - check that 'venv' folder is not there 
-4. **git add --all** - add all or specific files to be committed 
+4. **git add --all** - add all or specific files to be committed
 5. **git commit -m 'message'** - add commit message
 6. - **git push origin main** - push commit
 
