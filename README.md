@@ -16,7 +16,7 @@ One solution is creating a virtual environment and installing packages here.
 
 When committing this into github, do not upload the virtual environment
 1. add a file called **'.gitignore'**
-2. write 'venv' into '.gitignore'
+2. write **'venv'** into '.gitignore'
 3. **git status** - check that 'venv' folder is not there 
 4. **git add --all** - add all or specific files to be committed
 5. **git commit -m 'message'** - add commit message
