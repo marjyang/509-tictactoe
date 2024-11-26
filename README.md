@@ -20,7 +20,7 @@ When committing this into github, do not upload the virtual environment
 3. **git status** - check that 'venv' folder is not there 
 4. **git add --all** - add all or specific files to be committed
 5. **git commit -m 'message'** - add commit message
-6. - **git push origin main** - push commit
+6. **git push origin main** - push commit
 
 To ensure you have all the packages as the previous developer:
 **pip install -r requirements.txt**
