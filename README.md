@@ -1,4 +1,4 @@
-# tic tac toe game
+# tic tac toe game & virtual environments with git
 
 To use packages in repositories, we need to list these as a dependency because it might not be installed in all systems or it might be shared for the laptop
 
